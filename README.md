@@ -6,3 +6,4 @@
 
 ## 开发流程
 
+![process](img\process.jpg)
